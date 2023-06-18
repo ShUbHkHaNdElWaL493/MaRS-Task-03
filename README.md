@@ -22,11 +22,8 @@ The LED is turned off when no signal is received as Arduino stops receiving the 
 
 
 @ Resources Used
-
-Information on the RF transmitter and receiver:
-https://how2electronics.com/433mhz-rf-module-works-interfacing-arduino/
-Link for the RadioHead library used:
-http://www.airspayce.com/mikem/arduino/RadioHead/RadioHead-1.92.zip
+1. Information on the RF transmitter and receiver: https://how2electronics.com/433mhz-rf-module-works-interfacing-arduino/
+2. Link for the RadioHead library used: http://www.airspayce.com/mikem/arduino/RadioHead/RadioHead-1.92.zip
 
 
 @ Knowledge Gained
