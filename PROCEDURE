@@ -1,1 +1,7 @@
-
+Procedure for making RF Transmitter
+Requirement:Ardiuno,Breadboard,wires,RF Transmitter.
+Procedure:
+1.We have to connect VCC pin to the 5V powersource in Arduino.
+2.Connecting Ground pin to the Ground of Arduino.
+3.Data pin of the Transmitter should be connected to any Digital Pin(in our case -12)
+4.For long distances we can use an antenna(wounded wire)
